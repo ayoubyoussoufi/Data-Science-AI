@@ -6,12 +6,13 @@
 Adidas is thinking about implementing a new retailer in France and the commercial heads wants to know the potential business impact (+ / -) 
 and secure if this makes sense or not, by:
 1. Having a clear visibility on the future distribution:
-a. By using a dynamic map showing the current retailers in one color and the new ones with another.
-b. OR By using a dynamic map where we can show the evolution by using slicer based on the temporality (2023 – 2024).
-c. OR Having 2 maps like a before / after approach.
+    a. By using a dynamic map showing the current retailers in one color and the new ones with another.
+    b. OR By using a dynamic map where we can show the evolution by using slicer based on the temporality (2023 – 2024).
+    c. OR Having 2 maps like a before / after approach.
+
 ➢ AND Showing the numerical distribution evolution (Number of doors & %).
-2. Knowing the impact on the current distribution by evaluating/materializing them within a 2km distance against the new retailer. Indicate 
-the key performance indicators on the current distribution and consider the following thresholds:
+2. Knowing the impact on the current distribution by evaluating/materializing them within a 2km distance against the new retailer. Indicate the key performance indicators on the current distribution and consider the following thresholds:
+
 ➢ 4 competitors = Low Opportunity / 2 or 3 = Medium / 1= High and 0 = Very High
 
 - You will find the POWER BI visualisation in `adidas_Ayoub_Youssoufi_BI.pbix` and the presentation of the business case in `adidas_Ayoub_Youssoufi_BI_PPT`
