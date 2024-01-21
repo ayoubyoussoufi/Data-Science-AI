@@ -22,5 +22,5 @@ and secure if this makes sense or not, by:<br>
 
 ## Data processing : 
 
-The new retailers has missing geospatial information. It has been imputed by using geopy python module. More details of the in `geo_location_Adidas.ipynb`
+The new retailers has missing geospatial information. It has been imputed by using geopy python module. Find details in `geo_location_Adidas.ipynb`
 
