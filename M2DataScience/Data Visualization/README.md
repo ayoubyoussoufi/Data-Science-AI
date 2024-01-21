@@ -4,7 +4,7 @@
 
 ## Context 
 Adidas is thinking about implementing a new retailer in France and the commercial heads wants to know the potential business impact (+ / -) 
-and secure if this makes sense or not, by:
+and secure if this makes sense or not, by:<br>
 1. Having a clear visibility on the future distribution:
     a. By using a dynamic map showing the current retailers in one color and the new ones with another.<br>
     b. OR By using a dynamic map where we can show the evolution by using slicer based on the temporality (2023 – 2024).<br>
